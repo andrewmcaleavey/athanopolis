@@ -4,9 +4,16 @@
 \name{athanopolis-package}
 \alias{athanopolis}
 \alias{athanopolis-package}
-\title{athanopolis: What the Package Does (Title Case)}
+\title{athanopolis: Basic Functions for Everyday Living}
 \description{
-More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+This is a collection of functions and features that I want to keep handy. There's nothing special here.
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/andrewmcaleavey/athanopolis}
+  \item Report bugs at \url{https://github.com/andrewmcaleavey/athanopolis/issues}
+}
+
 }
 \keyword{internal}
