@@ -1,10 +1,11 @@
 Package: athanopolis
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Basic Functions for Everyday Living
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: Andrew McAleavey, Editor
+Maintainer: Andrew McAleavey <andrew.mcaleavey@gmail.com>
+Description: This is a collection of functions and features that I 
+want to keep handy. There's nothing special here.  
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
 Encoding: UTF-8
